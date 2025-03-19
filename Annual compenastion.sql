@@ -1,0 +1,1 @@
+select ((sal+100)*12) AS "Annual compensation " from emp;

@@ -1,1 +1,0 @@
-select concat(ename,": 1 month salary = ",sal) AS "Monthly Salary "from emp;
